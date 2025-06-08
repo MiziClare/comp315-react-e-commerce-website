@@ -1,30 +1,23 @@
-# React + TypeScript + Vite
+<p align="center">
+  <a href="https://www.liverpool.ac.uk/" target="blank">
+    <img src="Liverpool_logo.png" alt="Logo" height="156">
+  </a>
+ <h1 align="center" style="font-weight: 600">COMP315  Cloud Computing for E-Commerce</h1>
+ <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please star this, thank you very much!</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Intro
+* A2: This project is a dynamic and reactive e-commerce website frontend built using React and TypeScript. It allows users to search, filter, sort, and manage a basket of products with real-time updates. The site is responsive across devices and is designed to enhance user interactivity and functionality in online shopping environments.
 
-Currently, two official plugins are available:
+## Must See Before Read My Code
+* Operating System: Win11
+* Programming Languages: TypeScript, React (with Vite)
+* All codes are related to labs and assignments and were uploaded after the assignment deadline. All personal and project-related information is based on official coursework specifications provided by the University.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚠️Please adhere to the University's Academic Integrity Policy. I accept no responsibility for suspected academic misconduct of any kind.
 
-## Expanding the ESLint configuration
+## Module Specification
+* Year: 2025
+* Lecturer: Joshua Alcock
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Module Results
+* 100/100
