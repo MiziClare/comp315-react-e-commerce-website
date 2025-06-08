@@ -5,7 +5,7 @@ import './e-commerce-stylesheet.css'
 
 type Product = {
   id: number
-	name: string
+  name: string
   price: number
   category: string
   quantity: number
