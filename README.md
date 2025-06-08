@@ -20,4 +20,5 @@
 * Lecturer: Joshua Alcock
 
 ## Module Results
-* 100/100
+* Assginment 1 Data Cleaning using JavaScript (in a single file): 100/100
+* Assginment 2 React E-Commerce Website: 100/100
